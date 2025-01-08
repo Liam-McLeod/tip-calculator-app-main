@@ -17,8 +17,8 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 
 ### Links
 
--  [Solution URL](https://www.frontendmentor.io/solutions/age-calculator-app-otqwzMQoN-)
--  [Live Site URL](https://liam-mcleod.github.io/age-calculator-app-main/)
+-  [Solution URL](https://www.frontendmentor.io/solutions/tip-calculator-app-tPILB27vDw)
+-  [Live Site URL](https://liam-mcleod.github.io/tip-calculator-app-main/)
 
 ## Author
 - Frontend Mentor - [@Liam-McLeod](https://www.frontendmentor.io/profile/Liam-McLeod)
